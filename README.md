@@ -9,7 +9,7 @@ I have done my graduation in Electrical and Electronics Engineering.
 My Skill Set : HTML5, CSS3, JavaScript.
 I'm also learning Back-End Development and looking forward to be a Full Stack Web Developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyashaha&label=Profile%20views&color=0e75b6&style=flat" alt="arghyashaha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arghyashaha&label=Profile%20views&color=0e75b6&style=flat" alt="arghyashaha" /> </p>
 Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 

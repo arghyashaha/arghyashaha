@@ -1,4 +1,4 @@
-(https://images.pexels.com/photos/270373/pexels-photo-270373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+!(https://images.pexels.com/photos/270373/pexels-photo-270373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ### Hi there 👋, I'm Arghya Saha
 ####  Web Developer
 ![ Web Developer]

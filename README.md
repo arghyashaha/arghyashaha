@@ -15,7 +15,7 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about HTML5, CSS3, JS, Bootstrap 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghyashaha&label=Profile%20views&color=0e75b6&style=flat" alt="arghyashaha" /> </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arghyashaha)  
 

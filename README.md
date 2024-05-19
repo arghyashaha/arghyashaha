@@ -1,7 +1,7 @@
-!(https://images.pexels.com/photos/270373/pexels-photo-270373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 ### Hi there 👋, I'm Arghya Saha
 ####  Web Developer
-![ Web Developer]
+![ Web Developer] (https://images.pexels.com/photos/270373/pexels-photo-270373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 Hi, I’m Arghya and i am Front-End Web Developer. It's been 6 months, I’m working as web developer.  I am passionate about making error-free 100% client satisfied website.

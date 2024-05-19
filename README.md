@@ -12,7 +12,7 @@ I'm also learning Back-End Development and looking forward to be a Full Stack We
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arghyashaha&label=Profile%20views&color=0e75b6&style=flat" alt="arghyashaha" /> </p>
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about HTML5, CSS3, JS, Bootstrap 
